@@ -1,4 +1,4 @@
-### end to end machne learnng project
+### end to end Medical insurance cost prediction project
 
 📌 Project Overview
 
