@@ -15,7 +15,7 @@ Demonstrate industry-standard ML workflow: data ingestion → transformation →
 
 📊 Dataset
 
-Source: Kaggle – Medical Cost Personal Dataset
+Source: Kaggle – Medical Insurance Cost Prediction
 
 Features:
 
